@@ -1,0 +1,99 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 270vh;
+  width: 100%;
+  
+  background-image: radial-gradient(circle, rgba(53, 33, 163, 0.7), rgba(161, 31, 85, 0), rgba(46, 37, 177, 0.7) );
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+  color: #fff; 
+  font-family: Arial, sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+}
+h1{
+  
+      font-family: "Protest Guerrilla", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 100px;
+      margin-left: 2%;
+    
+    
+}
+#A{
+  text-justify: auto;
+  justify-items: right;
+  font-family: "Unlock", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  margin-left: 2%;
+}
+p{
+  text-justify: auto;
+  justify-items: right;
+  font-family: "Unlock", serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 40px;
+  margin-left: 2%;
+ 
+  margin-top:40%;
+  position: absolute;
+}
+#i{
+  position: absolute;
+  margin-top: -73%;
+  margin-left: 75%;
+  height: 30%;
+  border: 5px solid white;
+  border-radius: 25px;
+  box-shadow: 30px 30px inset red;
+}
+#v{
+height: 600px;
+  margin-left: 20%;
+border: 5px solid white;
+border-radius: 20%;
+  
+
+position: absolute;
+  
+}
+nav a {
+  color: rgb(242, 245, 248);
+  
+  text-decoration: none;
+  transition: all 0.5s ease;
+  
+  
+  
+  }    
+  li{
+  left: 93%;
+   
+  text-align: right;
+  display: inline;
+  position: absolute;
+  padding: 3px 30px;
+    background-color: rgb(247, 18, 18);
+    border-radius: 25%;
+    background-position: cover;
+    margin-top: -12%;
+  
+  
+  
+  
+  
+  }
+  
+  
+  nav a:hover{
+    border-bottom: 5px  solid rgb(241, 230, 230);
+    font-size: 20px;
+  }
+  
